@@ -1,7 +1,7 @@
 ^o::
 run, cmd.exe
 sleep, 500
-Send, ssh *@* {Enter}
+Send, ssh *@*{Enter}
 sleep, 8000
-Send, cd * {Enter}
+Send, cd *{Enter}
 return
