@@ -1,0 +1,6 @@
+^o::
+run, cmd.exe
+sleep, 500
+Send, ssh *@* {Enter}
+sleep, 1000
+Send, cd *
