@@ -2,5 +2,5 @@
 run, cmd.exe
 sleep, 500
 Send, ssh *@* {Enter}
-sleep, 1000
+sleep, 8000
 Send, cd *
