@@ -5,3 +5,4 @@ sleep, 50
 ;change input lanuage
 send,{RAlt}
 return
+;For Windows
