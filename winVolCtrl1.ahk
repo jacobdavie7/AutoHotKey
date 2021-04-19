@@ -1,5 +1,5 @@
 ;Make media keys change volume in incriments of 1, rather than 2.
-Orginal author: Fatima Wahab
+;Orginal author: Fatima Wahab
 
 $Volume_Up:: ;special input key for media vol. up. $ = Hook. Stops recusion with sending itself. 
 SoundGet, volume ;Needs to know current value, else defaults to 0
